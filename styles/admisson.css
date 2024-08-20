@@ -1,0 +1,141 @@
+.screenshot-2024-08-20-at-746 {
+  position: absolute;
+  top: 400px;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 113.8px;
+  object-fit: cover;
+}
+.screenshot-2024-08-20-at-749 {
+  position: absolute;
+  top: 514px;
+  left: 10px;
+  width: 340px;
+  height: 452.4px;
+  object-fit: cover;
+}
+.group-child66 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 170px);
+  background-color: #fff;
+  width: 340px;
+  height: 30px;
+}
+.application {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 14px;
+  letter-spacing: 0.5px;
+  line-height: 20px;
+}
+.rectangle-parent47 {
+  position: absolute;
+  top: 80px;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 30px;
+}
+.rectangle-parent48,
+.rectangle-parent49,
+.rectangle-parent50,
+.rectangle-parent51 {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 30px;
+}
+.rectangle-parent49,
+.rectangle-parent50,
+.rectangle-parent51 {
+  top: 160px;
+}
+.rectangle-parent50,
+.rectangle-parent51 {
+  top: 200px;
+}
+.rectangle-parent51 {
+  top: 240px;
+}
+.admisson-child,
+.rectangle-parent52,
+.rectangle-parent53,
+.rectangle-parent54 {
+  position: absolute;
+  top: 280px;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 30px;
+}
+.admisson-child,
+.rectangle-parent53,
+.rectangle-parent54 {
+  top: 320px;
+}
+.admisson-child,
+.rectangle-parent54 {
+  top: 360px;
+}
+.admisson-child {
+  top: 0;
+  left: calc(50% - 180px);
+  width: 360px;
+  object-fit: cover;
+}
+.placeholder-label8 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+}
+.content8 {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 107px);
+  border-radius: 2px;
+  background-color: #fff;
+  width: 213px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 16px;
+  box-sizing: border-box;
+}
+.vector-icon26 {
+  position: absolute;
+  top: calc(50% - 12px);
+  right: 0;
+  width: 20px;
+  height: 23.5px;
+}
+.vector-icon27 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.content-parent6 {
+  position: absolute;
+  top: calc(50% - 443px);
+  left: calc(50% - 160px);
+  width: 320px;
+  height: 30px;
+  font-size: 12px;
+  color: rgba(60, 60, 67, 0.6);
+  font-family: Roboto;
+}
+.admisson {
+  width: 100%;
+  position: relative;
+  background-color: #f5eaea;
+  height: 966px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15px;
+  color: #000;
+  font-family: "Roboto Condensed";
+}

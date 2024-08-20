@@ -1,0 +1,239 @@
+.home-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 180px);
+  width: 360px;
+  height: 30px;
+  object-fit: cover;
+}
+.placeholder-label1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+}
+.content1 {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 107px);
+  border-radius: 2px;
+  background-color: #fff;
+  width: 213px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 16px;
+  box-sizing: border-box;
+}
+.vector-icon2 {
+  position: absolute;
+  top: calc(50% - 12px);
+  right: 0;
+  width: 20px;
+  height: 23.5px;
+}
+.vector-icon3 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.content-group {
+  position: absolute;
+  top: calc(50% - 360px);
+  left: calc(50% - 160px);
+  width: 320px;
+  height: 30px;
+  text-align: left;
+  font-size: 12px;
+  color: rgba(60, 60, 67, 0.6);
+  font-family: Roboto;
+}
+.slide-item-icon {
+  position: absolute;
+  top: 80px;
+  left: calc(50% - 170px);
+  border-radius: 10px;
+  width: 340px;
+  height: 170px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  top: calc(50% - 40px);
+  left: calc(50% - 82.5px);
+  background-color: #fff;
+  width: 165px;
+  height: 80px;
+}
+.vector-icon4 {
+  position: absolute;
+  top: calc(50% - 17px);
+  left: calc(50% - 10px);
+  width: 20px;
+  height: 20px;
+}
+.image,
+.vector-parent {
+  position: absolute;
+  width: 54px;
+}
+.image {
+  top: calc(50% + 8px);
+  left: calc(50% - 27px);
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 9px;
+}
+.vector-parent {
+  top: calc(50% - 17px);
+  left: calc(50% - 26.5px);
+  height: 34px;
+}
+.frame-div,
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 165px;
+  height: 80px;
+}
+.rectangle-parent9 {
+  left: 175px;
+}
+.frame-parent,
+.rectangle-parent10,
+.rectangle-parent11 {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  width: 165px;
+  height: 80px;
+}
+.frame-parent,
+.rectangle-parent11 {
+  left: 175px;
+}
+.frame-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  top: 434px;
+  left: 10px;
+  width: 340px;
+  height: 170px;
+}
+.faculty,
+.group-child15 {
+  position: absolute;
+  left: calc(50% - 25px);
+  width: 50px;
+}
+.faculty {
+  top: calc(50% + 22px);
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 9px;
+}
+.group-child15 {
+  top: calc(50% - 25px);
+  border-radius: 100px;
+  background-color: #fff;
+  height: 50px;
+}
+.image-4-icon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 10px);
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.faculty-parent,
+.rectangle-parent12 {
+  position: absolute;
+  top: calc(50% - 31px);
+  left: calc(50% - 25px);
+  width: 50px;
+  height: 50px;
+}
+.faculty-parent {
+  top: calc(50% - 72px);
+  left: calc(50% - 160px);
+  height: 62px;
+}
+.news-parent,
+.notice-parent,
+.routine-parent,
+.transport-parent {
+  position: absolute;
+  top: calc(50% - 72px);
+  left: calc(50% - 70px);
+  width: 50px;
+  height: 62px;
+}
+.notice-parent,
+.routine-parent,
+.transport-parent {
+  left: calc(50% + 20px);
+}
+.routine-parent,
+.transport-parent {
+  left: calc(50% + 110px);
+}
+.transport-parent {
+  top: calc(50% + 10px);
+  left: calc(50% - 160px);
+}
+.admission-parent,
+.group-parent,
+.law-clinic-parent,
+.law-forum-parent {
+  position: absolute;
+  top: calc(50% + 10px);
+  left: calc(50% - 70px);
+  width: 50px;
+  height: 62px;
+}
+.group-parent,
+.law-clinic-parent,
+.law-forum-parent {
+  left: calc(50% + 20px);
+}
+.group-parent,
+.law-clinic-parent {
+  left: calc(50% + 110px);
+}
+.group-parent {
+  top: calc(50% - 130px);
+  left: calc(50% - 160px);
+  width: 320px;
+  height: 144px;
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: #f5eaea;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 10px;
+  color: #000;
+  font-family: "Roboto Condensed";
+}
+
+.art{
+  color: black;
+}
+

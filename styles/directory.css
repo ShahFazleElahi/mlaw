@@ -1,0 +1,179 @@
+.directory-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 180px);
+  width: 360px;
+  height: 30px;
+  object-fit: cover;
+}
+.placeholder-label4 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+}
+.content4 {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 107px);
+  border-radius: 2px;
+  background-color: #fff;
+  width: 213px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 16px;
+  box-sizing: border-box;
+}
+.vector-icon12 {
+  position: absolute;
+  top: calc(50% - 12px);
+  right: 0;
+  width: 20px;
+  height: 23.5px;
+}
+.vector-icon13 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.content-parent2 {
+  position: absolute;
+  top: calc(50% - 360px);
+  left: calc(50% - 160px);
+  width: 320px;
+  height: 30px;
+  font-size: 12px;
+  color: rgba(60, 60, 67, 0.6);
+  font-family: Roboto;
+}
+.group-child24 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 170px);
+  background-color: #fff;
+  width: 340px;
+  height: 100px;
+}
+.group-child25 {
+  position: absolute;
+  top: calc(50% - 35px);
+  left: 14px;
+  border-radius: 2px;
+  background-color: #d9d9d9;
+  width: 70px;
+  height: 70px;
+}
+.shah-fazle-elahi,
+.student {
+  position: absolute;
+  top: 15px;
+  left: 99px;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+}
+.student {
+  top: 42px;
+  font-size: 10px;
+  line-height: 10px;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 100px;
+}
+.vector-icon14 {
+  position: absolute;
+  height: 37.5%;
+  width: 8.82%;
+  top: 31%;
+  right: 81.18%;
+  bottom: 31.5%;
+  left: 10%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-7-icon,
+.image-8-icon,
+.image-9-icon,
+.linkedin-icon {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.image-7-icon,
+.image-9-icon,
+.linkedin-icon {
+  left: 0;
+}
+.image-9-icon,
+.linkedin-icon {
+  left: 60px;
+}
+.linkedin-icon {
+  left: 90px;
+}
+.image-8-parent {
+  position: absolute;
+  top: 65px;
+  left: 99px;
+  width: 110px;
+  height: 20px;
+}
+.group-container {
+  position: absolute;
+  top: 80px;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 100px;
+}
+.group-parent1,
+.group-parent2,
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  position: absolute;
+  top: 190px;
+  left: calc(50% - 170px);
+  width: 340px;
+  height: 100px;
+}
+.group-parent2,
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  top: 520px;
+}
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  top: 630px;
+}
+.group-parent4,
+.group-parent5 {
+  top: 300px;
+}
+.group-parent5 {
+  top: 410px;
+}
+.directory2 {
+  width: 100%;
+  position: relative;
+  background-color: #f5eaea;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 15px;
+  color: #000;
+  font-family: "Roboto Condensed";
+}
